@@ -35,7 +35,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100029901980367",
+    "100070294402719",
     "",
     ""
   ],
@@ -49,7 +49,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "𝗙𝗔𝗛𝗜𝗠-𝗕𝗢𝗧",
-  "prefix": "/",
+  "prefix": "-",
   "xnil": "",
   "api": "",
   "api2": "",
